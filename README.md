@@ -1,4 +1,5 @@
 - 界面效果图（实际上是动态的）
+![效果图](https://github.com/ly931126/TestLeftOrRight/blob/master/picture/device-2017-04-06-114242.png)
 #### ViewFlipper实现渐显按钮滑动的使用步骤
 ---
 ##### 1.首先要在清单文件中添加权限
